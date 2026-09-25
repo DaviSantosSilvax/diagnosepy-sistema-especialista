@@ -57,5 +57,5 @@ diagnóstico com a causa provável e a orientação de correção.
 Protótipo navegável com as 6 telas do fluxo (Início → Seleção do erro →
 Motor de inferência → Diagnóstico final → Decisão → Encerramento):
 
-- Figma: [https://check-young-08606117.figma.site]
+- Figma: [https://check-young-08606117.figma.site/]
 
